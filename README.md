@@ -2,6 +2,8 @@
 
 CampusConnect is a comprehensive platform designed to foster communication, collaboration, and community engagement within the college environment. Built with modern technologies, CampusConnect aims to enhance the college experience by providing students, professionals, and mentors with a centralized hub for connecting, sharing resources, and collaborating on academic endeavors.
 
+<img src="https://github.com/deepmachine786/CampusConnect/blob/main/CampusConnect.png">
+
 ## Features
 
 - **Department-Specific Communication**: Dedicated channels for each department allow students to connect with peers who share their academic interests and career goals.
