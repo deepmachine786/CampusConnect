@@ -20,15 +20,6 @@ CampusConnect is a comprehensive platform designed to foster communication, coll
 - Database: MongoDB
 - Additional Tools: Next.js, OAuth 2.0, Email Sender Services
 
-## Getting Started
-
-To get started with CampusConnect, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/CampusConnect.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Access the application at: `http://localhost:3000`
-
 ## Contributing
 
 Contributions are welcome! To contribute to CampusConnect, please follow these guidelines:
